@@ -1,0 +1,7 @@
+{
+  "list-context.custom-products":{
+    "component":"CustomProducts",
+    "allowed": ["product-summary"],
+    "composition": "children"
+  }
+}
